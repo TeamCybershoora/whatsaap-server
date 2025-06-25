@@ -1,2 +1,3 @@
-2025/06/25-23:28:46.456 56e8 Creating DB C:\Users\Nishant\Downloads\shoora-verse\whatsapp-server\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
-2025/06/25-23:28:46.471 56e8 Reusing MANIFEST C:\Users\Nishant\Downloads\shoora-verse\whatsapp-server\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/26-00:04:02.817 2c9c Reusing MANIFEST C:\Users\Nishant\Downloads\shoora-verse\whatsapp-server\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/26-00:04:02.835 2c9c Recovering log #3
+2025/06/26-00:04:02.835 2c9c Reusing old log C:\Users\Nishant\Downloads\shoora-verse\whatsapp-server\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
